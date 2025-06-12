@@ -5,6 +5,7 @@
 # 26
 # 07
 # -----> 07.26
+
 day = input('Enter the current day of the month: ')
 month = input('Enter current month: ')
 print(month + '.' + day)
